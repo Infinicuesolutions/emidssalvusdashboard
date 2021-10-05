@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/emidssalvusdashboard/static/css/main.8e8bcea8.chunk.css",
+    "main.js": "/emidssalvusdashboard/static/js/main.2e4e30a1.chunk.js",
+    "main.js.map": "/emidssalvusdashboard/static/js/main.2e4e30a1.chunk.js.map",
+    "runtime-main.js": "/emidssalvusdashboard/static/js/runtime-main.e29b050d.js",
+    "runtime-main.js.map": "/emidssalvusdashboard/static/js/runtime-main.e29b050d.js.map",
+    "static/css/2.1881a404.chunk.css": "/emidssalvusdashboard/static/css/2.1881a404.chunk.css",
+    "static/js/2.d2c11460.chunk.js": "/emidssalvusdashboard/static/js/2.d2c11460.chunk.js",
+    "static/js/2.d2c11460.chunk.js.map": "/emidssalvusdashboard/static/js/2.d2c11460.chunk.js.map",
+    "index.html": "/emidssalvusdashboard/index.html",
+    "static/css/2.1881a404.chunk.css.map": "/emidssalvusdashboard/static/css/2.1881a404.chunk.css.map",
+    "static/css/main.8e8bcea8.chunk.css.map": "/emidssalvusdashboard/static/css/main.8e8bcea8.chunk.css.map",
+    "static/js/2.d2c11460.chunk.js.LICENSE.txt": "/emidssalvusdashboard/static/js/2.d2c11460.chunk.js.LICENSE.txt",
+    "static/js/main.2e4e30a1.chunk.js.LICENSE.txt": "/emidssalvusdashboard/static/js/main.2e4e30a1.chunk.js.LICENSE.txt",
+    "static/media/salvus-R_logo.54958d58.png": "/emidssalvusdashboard/static/media/salvus-R_logo.54958d58.png",
+    "static/media/sidebar-1.0a127c58.jpg": "/emidssalvusdashboard/static/media/sidebar-1.0a127c58.jpg",
+    "static/media/sidebar-2.22f68ba5.jpg": "/emidssalvusdashboard/static/media/sidebar-2.22f68ba5.jpg",
+    "static/media/sidebar-3.e667b13e.jpg": "/emidssalvusdashboard/static/media/sidebar-3.e667b13e.jpg",
+    "static/media/sidebar-4.dd4b5581.jpg": "/emidssalvusdashboard/static/media/sidebar-4.dd4b5581.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e29b050d.js",
+    "static/css/2.1881a404.chunk.css",
+    "static/js/2.d2c11460.chunk.js",
+    "static/css/main.8e8bcea8.chunk.css",
+    "static/js/main.2e4e30a1.chunk.js"
+  ]
+}
